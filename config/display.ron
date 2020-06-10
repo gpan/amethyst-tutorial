@@ -1,0 +1,4 @@
+(
+  title: "amethyst-tutorial",
+  dimensions: Some((1920, 1080)),
+)
